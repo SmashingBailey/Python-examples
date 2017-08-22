@@ -1,0 +1,18 @@
+Scene(object) *This is the main to pass scene arguments into)
+- pass
+Engine(object)
+- self, scene_map
+- play
+
+Subclass scenes!
+FormulaOne(Scene)
+- pass
+V8Supercar(Scene)
+- pass
+Nascar(Scene)
+- pass
+
+Map(object)
+- __init__
+- next_scene
+- opening_scene
